@@ -1,0 +1,1 @@
+cp hashc /bin/
